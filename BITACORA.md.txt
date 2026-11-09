@@ -1,0 +1,8 @@
+celula-05-gestion-stock/
+├── README.md
+├── BITACORA.md
+├── .gitignore
+├── main.py
+├── interfaz.py
+├── validaciones.py
+└── salidas.py
