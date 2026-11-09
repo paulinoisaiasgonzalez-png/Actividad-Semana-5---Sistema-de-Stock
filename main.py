@@ -1,6 +1,6 @@
 """
 Sistema de Gestión de Stock — Célula 05
-Actividad Práctica Semana 5: "La Célula en Acción"
+Actividad Práctica de la Semana 5: "La Célula en Acción"
 """
 
 from interfaz import mostrar_menu, pedir_datos_producto
