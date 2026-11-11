@@ -1,6 +1,6 @@
 """
 Módulo de interfaz: menús y captura de datos.
-Responsable: [Nombre 1]
+Responsable: [Facundo]
 """
 
 
