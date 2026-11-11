@@ -1,6 +1,6 @@
 """
 Módulo de validaciones: reglas de negocio y control de errores.
-Responsable: [Nombre 2]
+Responsable: [Silvina]
 """
 
 
